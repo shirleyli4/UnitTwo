@@ -1,4 +1,4 @@
-//Shirley li 9/27 practice for instantiation
+package com.company;//Shirley li 9/27 practice for instantiation
 import java.awt.*;
 import java.util.*;
 public class PointsAndRectangles {
