@@ -8,9 +8,9 @@ public class FourtanglePrinter {
         System.out.println(rec);
         rec.translate(2,0);
         System.out.println(rec);
-        rec.translate(2,3);
-        System.out.println(rec);
         rec.translate(0,3);
+        System.out.println(rec);
+        rec.translate(-2,0);
         System.out.println(rec);
 
 
