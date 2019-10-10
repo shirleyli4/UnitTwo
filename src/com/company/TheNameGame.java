@@ -1,3 +1,4 @@
+//Shirley Li 10/10/19, a little song for you without redundancy
 package com.company;
 import java.util.Scanner;
 public class TheNameGame {
